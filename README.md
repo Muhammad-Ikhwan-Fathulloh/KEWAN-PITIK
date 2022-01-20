@@ -3,4 +3,4 @@ KEWAN PITIK (Aplikasi Pemantauan, Kontrol dan Keamanan Kandang Ayam dengan Googl
 <br>
 <a href="https://s.id/VideoKewanPitik">Demo Sistem</a>
 <br>
-<a href="https://www.linkedin.com/in/muhammad-ikhwan-fathulloh-4a9835165/">Publikasi Naratif</a>
+<a href="https://naratif.sttbandung.ac.id/index.php/naratif/article/view/118">Publikasi Naratif</a>
